@@ -1,6 +1,6 @@
 {
   "name": "adapt-intro",
-  "version": "1.4.2",
+  "version": "1.4.2a",
   "framework": ">=2.0.0",
   "displayName": "Intro",
   "extension": "Intro",
@@ -11,10 +11,11 @@
     "adapt-extension"
   ],
   "authors": [
-    "Simon Date <simon.date@kcl.ac.uk>"
+    "Simon Date <simon.date@kcl.ac.uk>",
+    "Pablo Rodriguez <pablo@plablo.es>"
   ],
   "license": "GPL-3.0",
-  "homepage": "https://github.com/KingsOnline/adapt-intro",
-  "issues": "https://github.com/KingsOnline/adapt-intro/issues",
+  "homepage": "https://github.com/plablo/adapt-intro",
+  "issues": "https://github.com/plablo/adapt-intro/issues",
   "targetAttribute": "_intro"
 }
