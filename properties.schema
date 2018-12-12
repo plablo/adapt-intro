@@ -75,8 +75,8 @@
                         "type": "string",
                         "require": false,
                         "title": "Text",
-                        "inputType": {"type": "Select", "options":["bottom", "left", "right", "top"]},
-                        "enum": ["bottom", "left", "right", "top"],
+                        "inputType": {"type": "Select", "options":["bottom", "left", "right", "top", "auto"]},
+                        "enum": ["bottom", "left", "right", "top", "auto"],
                         "default": "bottom",
                         "translatable": false
                       }

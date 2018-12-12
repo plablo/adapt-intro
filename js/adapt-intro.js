@@ -27,7 +27,8 @@ define([
     },
 
     assignIntro: function(className, text, introOrder, introPosition) {
-      var htmlElement = document.getElementsByClassName(className)[0];
+      // var htmlElement = document.getElementsByClassName(className)[0];
+      var htmlElement = $(className)[0];
       if (!htmlElement) return;
       var introText = document.createAttribute("data-intro");
       introText.value = text;

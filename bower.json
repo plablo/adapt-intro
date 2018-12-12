@@ -1,6 +1,6 @@
 {
   "name": "adapt-intro",
-  "version": "1.4.2b",
+  "version": "1.4.2c",
   "framework": ">=2.0.0",
   "displayName": "Intro",
   "extension": "Intro",
